@@ -34,3 +34,5 @@ Need Help?  [Join our Slack team][slack].
 [slack]: https://join.atomist.com/
 
 Deep at the center of my being is an infinite well of love.
+
+You are the delta in what you do, not the things you did in the past
