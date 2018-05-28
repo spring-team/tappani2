@@ -9,3 +9,5 @@ atomist:
   environment:
       domain: '${vcap.application.space_name:development}'
       pod: '${HOSTNAME:${random.value}}'
+raven:
+    dsn: 'xyz'
